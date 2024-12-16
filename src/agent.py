@@ -1,13 +1,7 @@
 import autogen
-import openai
-# import logging
-# logging.basicConfig(level=logging.DEBUG)
-
-
 '''
-    A research summerizer Agent ...
+    A simple starting point with autogen
 '''
-
 
 
 config_list = [
